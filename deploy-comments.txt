@@ -1,0 +1,4 @@
+# para error de permisos de logs. 
+sudo chmod o+w ./storage/ -R
+# tutorial de :
+https://www.cloudsigma.com/deploying-laravel-nginx-and-mysql-with-docker-compose/
